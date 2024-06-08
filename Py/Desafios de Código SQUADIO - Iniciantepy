@@ -1,0 +1,10 @@
+itens = []
+i = 0
+
+while i < 3:
+    itens.append(input())
+    i += 1
+
+print("Lista de itens:")
+for item in itens:
+    print(f"- {item}")

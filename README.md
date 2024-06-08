@@ -9,3 +9,5 @@ Repositório utilizado para estudo de versionamento
 
 
 • atualizando para utilizar o merge
+
+• testando a branch nova

@@ -6,3 +6,6 @@ Repositório utilizado para estudo de versionamento
 * testentando o comando git push alterado pelo github
 * tentando o comando "pull"
 * comando git fetch
+
+
+• atualizando para utilizar o merge
